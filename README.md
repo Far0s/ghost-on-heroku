@@ -1,4 +1,4 @@
-# seb-ghost
+# seb-ghost [![Build Status](https://travis-ci.org/Far0s/seb-ghost.svg?branch=master)](https://travis-ci.org/Far0s/seb-ghost)
 > README is in progress
 
 > Forked from [Ghost](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
